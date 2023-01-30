@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int a=15;
+    int a=5;
     int b=10;
     printf(a-b);
 }
